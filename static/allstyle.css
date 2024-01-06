@@ -1,7 +1,7 @@
 #menu{
     float: right;
     
-    li{
+    ul li{
 	    display : inline-block;
         
         border-radius: 10%;
