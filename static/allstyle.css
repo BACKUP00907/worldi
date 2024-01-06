@@ -1,9 +1,15 @@
-div.menu{
+#menu{
     float: right;
-    border-block-color: red;
-    .ul.li{
-        border-radius: 0.1%;
+    
+    li{
+	display : inline-block;
+        float: right;
+        border-radius: 10%;
         border-color: black;
-        border: 1px;
+        padding-border: 100px;
+	background-color : orange;
+	padding:10px;
+	margin:5px;
+        
     }
 }
