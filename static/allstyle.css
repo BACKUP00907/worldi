@@ -1,0 +1,9 @@
+div.menu{
+    float: right;
+    border-block-color: red;
+    .li{
+        border-radius: 0.1%;
+        border-color: black;
+        border: 1px;
+    }
+}
