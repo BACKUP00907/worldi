@@ -5,7 +5,7 @@
 	    display : inline-block;
         
         border-color: black;
-        
+        top:auto;
 	    background-color : orange;
 	    padding:5px;
 	    margin:5px;
