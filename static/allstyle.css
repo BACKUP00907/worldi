@@ -1,6 +1,6 @@
 .menu{
     float: right;
-    
+    background-color: orange;
     li{
 	    display : inline-block;
         
