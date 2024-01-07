@@ -1,5 +1,5 @@
 .menu{
-    float: right;
+    float:right ;
     background-color: orange;
     li{
 	    display : inline-block;
@@ -11,6 +11,11 @@
 	    margin:5px;
         
     }
+}
+
+.logo{
+
+    float:left;
 }
 
 .error{
